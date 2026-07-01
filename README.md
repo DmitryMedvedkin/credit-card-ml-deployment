@@ -3,8 +3,11 @@
 Production-like-среду сервис машинного обучения для прогнозирования дефолта по кредитным картам. Проект охватывает полный цикл: обучение и сохранение моделей -> Flask API -> контейнеризация (Docker) -> A/B-тестирование
 
 **Домен:** финансы / кредитный скоринг
+
 **Датасет:** Default of Credit Card Clients Dataset с UCI Machine Learning Repository
-**Docker Hub:** https://hub.docker.com/repository/docker/dmitrymedvedkin/credit-default-api
+
+**Docker Hub:** [https://hub.docker.com/repository/docker/dmitrymedvedkin/credit-default-api](https://hub.docker.com/r/dmitrymedvedkin/credit-default-api/tags)
+
 **GitHub:** https://github.com/DmitryMedvedkin/credit-card-ml-deployment
 
 ## Что реализовано
