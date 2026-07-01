@@ -6,7 +6,7 @@ Production-like-среду сервис машинного обучения дл
 
 **Датасет:** Default of Credit Card Clients Dataset с UCI Machine Learning Repository
 
-**Docker Hub:** [https://hub.docker.com/repository/docker/dmitrymedvedkin/credit-default-api](https://hub.docker.com/r/dmitrymedvedkin/credit-default-api/tags)
+**Docker Hub:** https://hub.docker.com/r/dmitrymedvedkin/credit-default-api
 
 **GitHub:** https://github.com/DmitryMedvedkin/credit-card-ml-deployment
 
